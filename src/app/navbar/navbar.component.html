@@ -1,0 +1,71 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+  crossorigin="anonymous">
+
+<nav class="navbar navbar-expand-md  fixed-top">
+  <a class="navbar-brand">
+    <img src="../../assets/images/movie-clapper-open.png" alt="" class="brand" width="32px" height="32px">MovieTalkz</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+    aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="nav navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact:
+          true}">Home
+          <span></span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/latestnews" routerLinkActive="active">Latest News <span></span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/latesttrailers" routerLinkActive="active">Latest Trailers <span></span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/news" routerLinkActive="active">Top Headlines<span></span></a>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+          aria-expanded="false">
+          Year
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/movieyear/2019/captain-marvel/5cbcc6edc532793e6e415bf0">2019</a>
+          <a class="dropdown-item" routerLink="/movieyear/2018/avengers-infinity-war/5ca48e169433a33dd61f2d20">2018</a>
+          <a class="dropdown-item" routerLink="/movieyear/2017/star-wars-the-last-jedi/5caa0c0f63a78510827bc6f3">2017</a>
+          <a class="dropdown-item" routerLink="/movieyear/2016/captain-america-civil-war/5caa0fff3a80c8154aab66f1">2016</a>
+          <a class="dropdown-item" routerLink="/movieyear/2015/star-wars-the-force-awakens/5caa0fff3a80c8154aab66fb">2015</a>
+          <a class="dropdown-item" routerLink="/movieyear/2014/transformers-age-of-extinction/5caa0fff3a80c8154aab6705">2014
+          </a>
+          <a class="dropdown-item" routerLink="/movieyear/2013/frozen/5caa0fff3a80c8154aab670f">2013 </a>
+          <a class="dropdown-item" routerLink="/movieyear/2012/the-avengers/5caa0fff3a80c8154aab6719">2012 </a>
+          <a class="dropdown-item" routerLink="/movieyear/2011/harry-potter-and-the-deathly-hallows-part-2/5caa0fff3a80c8154aab6723">2011
+          </a>
+          <a class="dropdown-item" routerLink="/movieyear/2010/toy-story-3/5caa0fff3a80c8154aab672d">2010 </a>
+          <a class="dropdown-item" routerLink="/movieyear/2009/avatar/5caa0fff3a80c8154aab6737">2009 </a>
+          <a class="dropdown-item" routerLink="/movieyear/2008/the-dark-knight/5caa0fff3a80c8154aab6741">2008 </a>
+        </div>
+      </li>
+    </ul>
+
+    <ul class="navbar-nav">
+
+
+      <li class="nav-item" *ngIf="!userService.loggedIn()" [routerLinkActive]="['active']">
+        <a class="nav-link" routerLink="/login">Log In </a>
+      </li>
+      <li class="nav-item" *ngIf="!userService.loggedIn()" [routerLinkActive]="['active']">
+        <a class="nav-link" routerLink="/register">Sign Up</a>
+      </li>
+      <li class="nav-item" *ngIf="userService.loggedIn()"><a class="nav-link" (click)="logout()" routerLink="#">Logout</a>
+      </li>
+      <div class="circle" *ngIf="userService.loggedIn()">
+        <li class="nav-item"><a class="nav-link" routerLink="/user" title="Profile"><i class="fas fa-user-circle"></i></a>
+        </li>
+      </div>
+    </ul>
+  </div>
+</nav>

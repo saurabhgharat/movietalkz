@@ -1,0 +1,19 @@
+<h1>Latest Trailers</h1>
+<hr>
+<br>
+<div *ngFor="let video of videos| paginate: { itemsPerPage: 5, currentPage: p }">
+  <div class=" card">
+    <div class="card-header">
+     <strong class="cardcontent">{{video.snippet.title|ampersand}}</strong></div>
+    <div class="card-body">
+
+      <div class="cardcontent"><iframe width="400px" height="400px" [src]="('https://www.youtube.com/embed/' + video.id.videoId) | safe"></iframe></div>
+    
+
+    </div>
+    <div class="card-footer text-muted">{{video.snippet.publishedAt|date}}</div>
+  </div>
+  <br>
+</div>
+
+<pagination-controls class="my-pagination" (pageChange)="p = $event"></pagination-controls>

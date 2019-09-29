@@ -1,0 +1,29 @@
+<h1>Top Headlines</h1>
+<hr>
+
+<br>
+<div *ngFor="let article of articles| paginate: { itemsPerPage: 5, currentPage: p }">
+
+
+
+
+  <div class=" card">
+    <div class="card-header">
+      <div id="image">
+        <img src="{{article.urlToImage}}" />
+      </div><strong class="cardcontent">Title:</strong>{{article.title}}
+    </div>
+    <div class="card-body">
+
+      <div><strong class="cardcontent">Description:</strong>{{article.description}}</div>
+      <div><strong class="cardcontent">Content:</strong>{{article.content | truncate: 200}}<div> </div><a href="{{article.url}}"
+          target="_blank">Read
+          More..</a></div>
+
+    </div>
+    <div class="card-footer text-muted">{{article.publishedAt|date}}</div>
+  </div>
+  <br>
+</div>
+
+<pagination-controls class="my-pagination" (pageChange)="p = $event"></pagination-controls>

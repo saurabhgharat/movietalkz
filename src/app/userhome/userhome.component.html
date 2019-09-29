@@ -1,0 +1,19 @@
+<div class="row">
+  <div class="col-md-6  posts">
+    <usercomments *ngIf="id" [id]="id"></usercomments>
+
+  </div>
+  <div class="col-md-3 "></div>
+  <div class="col-md-3 profile">
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" *ngIf="firstname" src="assets/images/profile.jpg" alt="{{firstname[0]|uppercase}}{{lastname[0]|uppercase}}">
+      <div class="card-body">
+
+        <h5 class="card-title"><strong>{{firstname|uppercase}} {{lastname|uppercase}}</strong></h5>
+        <h6><strong>Joined: </strong><span>{{creation_dt|date }}</span>
+        </h6>
+      </div>
+    </div>
+
+  </div>
+</div>

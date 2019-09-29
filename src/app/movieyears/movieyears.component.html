@@ -1,0 +1,14 @@
+<h1 class="gross">Highest Grossing films of {{year}}</h1>
+
+<div class="row">
+  <div class="col-md-3">
+
+
+    <movielist [year]="year" (SelectMovie)="onSelectMovie($event)"></movielist>
+  </div>
+  <div class="col-md-9">
+    <moviedetail *ngIf="selectedmovie" [id]="id" [firstname]="firstname" [lastname]="lastname" [movie]="selectedmovie"></moviedetail>
+  </div>
+</div>
+<br>
+<br>

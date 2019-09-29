@@ -1,0 +1,662 @@
+[
+  {
+    "date": 5,
+    "month": "APRIL",
+    "title": "Shazam!",
+    "studio": "Warner Bros. / New Line Cinema / DC Entertainment"
+  },
+  {
+    "date": 5,
+    "month": "APRIL",
+    "title": "Pet Sematary",
+    "studio": "Paramount Pictures"
+  },
+  {
+    "date": 5,
+    "month": "APRIL",
+    "title": "The Best of Enemies",
+    "studio": "STX Entertainment"
+  },
+  {
+    "date": 12,
+    "month": "APRIL",
+    "title": "Hellboy",
+    "studio": "Summit Entertainment / Millennium Films"
+  },
+  {
+    "date": 12,
+    "month": "APRIL",
+    "title": "Missing Link",
+    "studio": "Annapurna Pictures / Laika"
+  },
+  {
+    "date": 12,
+    "month": "APRIL",
+    "title": "Little",
+    "studio": "Universal Pictures / Will Packer Productions"
+  },
+  {
+    "date": 12,
+    "month": "APRIL",
+    "title": "After",
+    "studio": "Aviron Pictures"
+  },
+  {
+    "date": 17,
+    "month": "APRIL",
+    "title": "Breakthrough",
+    "studio": "20th Century Fox"
+  },
+  {
+    "date": 17,
+    "month": "APRIL",
+    "title": "Penguins",
+    "studio": "Disneynature"
+  },
+  {
+    "date": 19,
+    "month": "APRIL",
+    "title": "The Curse of La Llorona",
+    "studio": "Warner Bros. / New Line Cinema"
+  },
+  {
+    "date": 19,
+    "month": "APRIL",
+    "title": "Under the Silver Lake",
+    "studio": "A24"
+  },
+  {
+    "date": 26,
+    "month": "APRIL",
+    "title": "Avengers: Endgame",
+    "studio": "Marvel Studios"
+  },
+  {
+    "date": 3,
+    "month": "MAY",
+    "title": "The Intruder",
+    "studio": "Screen Gems"
+  },
+  {
+    "date": 3,
+    "month": "MAY",
+    "title": "Long Shot",
+    "studio": "Summit Entertainment / Good Universe / Point Grey Pictures"
+  },
+  {
+    "date": 3,
+    "month": "MAY",
+    "title": "UglyDolls",
+    "studio": "STX Entertainment / OddLot Entertainment"
+  },
+  {
+    "date": 3,
+    "month": "MAY",
+    "title": "Extremely Wicked, Shockingly Evil, and Vile",
+    "studio": "Netflix / Sky Cinema"
+  },
+  {
+    "date": 10,
+    "month": "MAY",
+    "title": "Pokémon: Detective Pikachu",
+    "studio": "Warner Bros. / Legendary Entertainment / The Pokémon Company"
+  },
+  {
+    "date": 10,
+    "month": "MAY",
+    "title": "The Hustle",
+    "studio": "Metro-Goldwyn-Mayer"
+  },
+  {
+    "date": 10,
+    "month": "MAY",
+    "title": "Tolkien",
+    "studio": "Fox Searchlight Pictures"
+  },
+  {
+    "date": 10,
+    "month": "MAY",
+    "title": "Poms",
+    "studio": "STX Entertainment / Sierra/Affinity"
+  },
+  {
+    "date": 10,
+    "month": "MAY",
+    "title": "The Professor and the Madman",
+    "studio": "Vertical Entertainment"
+  },
+  {
+    "date": 17,
+    "month": "MAY",
+    "title": "John Wick: Chapter 3 – Parabellum",
+    "studio": "Summit Entertainment"
+  },
+  {
+    "date": 17,
+    "month": "MAY",
+    "title": "A Dog's Journey",
+    "studio": "Universal Pictures / Amblin Entertainment / Walden Media"
+  },
+  {
+    "date": 17,
+    "month": "MAY",
+    "title": "The Sun Is Also a Star",
+    "studio": "Warner Bros. / Metro-Goldwyn-Mayer"
+  },
+  {
+    "date": 17,
+    "month": "MAY",
+    "title": "The Tomorrow Man",
+    "studio": "Bleecker Street"
+  },
+  {
+    "date": 24,
+    "month": "MAY",
+    "title": "Aladdin",
+    "studio": "Walt Disney Studios Motion Pictures"
+  },
+  {
+    "date": 24,
+    "month": "MAY",
+    "title": "Ad Astra",
+    "studio": "20th Century Fox"
+  },
+  {
+    "date": 24,
+    "month": "MAY",
+    "title": "Brightburn",
+    "studio": "Screen Gems / Stage 6 Films / Sony Pictures Releasing"
+  },
+  {
+    "date": 24,
+    "month": "MAY",
+    "title": "Booksmart",
+    "studio": "Annapurna Pictures / Gloria Sanchez Productions"
+  },
+  {
+    "date": 31,
+    "month": "MAY",
+    "title": "Godzilla: King of the Monsters",
+    "studio": "Warner Bros. / Legendary Entertainment"
+  },
+  {
+    "date": 31,
+    "month": "MAY",
+    "title": "Rocketman",
+    "studio": "Paramount Pictures / Marv Films"
+  },
+  {
+    "date": 31,
+    "month": "MAY",
+    "title": "Ma",
+    "studio": "Universal Pictures / Blumhouse Productions"
+  },
+  {
+    "date": 31,
+    "month": "MAY",
+    "title": "Domino",
+    "studio": "Saban Films"
+  },
+  {
+    "date": 7,
+    "month": "JUNE",
+    "title": "Dark Phoenix",
+    "studio": "20th Century Fox / Marvel Entertainment"
+  },
+  {
+    "date": 7,
+    "month": "JUNE",
+    "title": "The Secret Life of Pets 2",
+    "studio": "Universal Pictures / Illumination"
+  },
+  {
+    "date": 7,
+    "month": "JUNE",
+    "title": "Late Night",
+    "studio": "Amazon Studios"
+  },
+  {
+    "date": 7,
+    "month": "JUNE",
+    "title": "Changeland",
+    "studio": "Gravitas Ventures"
+  },
+  {
+    "date": 14,
+    "month": "JUNE",
+    "title": "Men in Black: International",
+    "studio": "Columbia Pictures / Amblin Entertainment"
+  },
+  {
+    "date": 14,
+    "month": "JUNE",
+    "title": "Shaft",
+    "studio": "Warner Bros. / New Line Cinema"
+  },
+  {
+    "date": 14,
+    "month": "JUNE",
+    "title": "The Dead Don't Die",
+    "studio": "Focus Features"
+  },
+  {
+    "date": 21,
+    "month": "JUNE",
+    "title": "Toy Story 4",
+    "studio": "Walt Disney Studios Motion Pictures / Pixar"
+  },
+  {
+    "date": 21,
+    "month": "JUNE",
+    "title": "Child's Play",
+    "studio": "Metro-Goldwyn-Mayer / Orion Pictures"
+  },
+  {
+    "date": 28,
+    "month": "JUNE",
+    "title": "Annabelle Comes Home",
+    "studio": "Warner Bros. / New Line Cinema"
+  },
+  {
+    "date": 28,
+    "month": "JUNE",
+    "title": "Yesterday",
+    "studio": "Universal Pictures / Working Title Films"
+  },
+  {
+    "date": 28,
+    "month": "JUNE",
+    "title": "47 Meters Down: Uncaged",
+    "studio": "Entertainment Studios"
+  },
+  {
+    "date": 3,
+    "month": "JULY",
+    "title": "Midsommar",
+    "studio": "A24"
+  },
+  {
+    "date": 5,
+    "month": "JULY",
+    "title": "Spider-Man: Far From Home",
+    "studio": "Columbia Pictures / Marvel Studios"
+  },
+  {
+    "date": 12,
+    "month": "JULY",
+    "title": "Stuber",
+    "studio": "20th Century Fox"
+  },
+  {
+    "date": 12,
+    "month": "JULY",
+    "title": "Crawl",
+    "studio": "Paramount Pictures / Ghost House Pictures"
+  },
+  {
+    "date": 12,
+    "month": "JULY",
+    "title": "21 Bridges",
+    "studio": "STX Entertainment"
+  },
+  {
+    "date": 19,
+    "month": "JULY",
+    "title": "The Lion King",
+    "studio": "Walt Disney Studios Motion Pictures"
+  },
+  {
+    "date": 26,
+    "month": "JULY",
+    "title": "Once Upon a Time in Hollywood",
+    "studio": "Columbia Pictures / Heyday Films"
+  },
+  {
+    "date": 26,
+    "month": "JULY",
+    "title": "Wish Dragon",
+    "studio": "Columbia Pictures / Sony Pictures Animation / Flagship Entertainment Group / Base FX"
+  },
+  {
+    "date": 31,
+    "month": "JULY",
+    "title": "Dora and the Lost City of Gold",
+    "studio": "Paramount Players / Nickelodeon Movies / Walden Media"
+  },
+  {
+    "date": 2,
+    "month": "AUGUST",
+    "title": "Fast & Furious Presents: Hobbs & Shaw",
+    "studio": "Universal Pictures / Original Film / Seven Bucks Productions"
+  },
+  {
+    "date": 2,
+    "month": "AUGUST",
+    "title": "The New Mutants",
+    "studio": "20th Century Fox / Marvel Entertainment"
+  },
+  {
+    "date": 9,
+    "month": "AUGUST",
+    "title": "Artemis Fowl",
+    "studio": "Walt Disney Studios Motion Pictures"
+  },
+  {
+    "date": 9,
+    "month": "AUGUST",
+    "title": "The Kitchen",
+    "studio": "Warner Bros. / New Line Cinema"
+  },
+  {
+    "date": 9,
+    "month": "AUGUST",
+    "title": "Scary Stories to Tell in the Dark",
+    "studio": "CBS Films / Entertainment One / Lionsgate"
+  },
+  {
+    "date": 9,
+    "month": "AUGUST",
+    "title": "Where'd You Go, Bernadette",
+    "studio": "Annapurna Pictures"
+  },
+  {
+    "date": 14,
+    "month": "AUGUST",
+    "title": "Blinded by the Light",
+    "studio": "Warner Bros. / New Line Cinema"
+  },
+  {
+    "date": 16,
+    "month": "AUGUST",
+    "title": "The Angry Birds Movie 2",
+    "studio": "Columbia Pictures / Rovio Animation"
+  },
+  {
+    "date": 16,
+    "month": "AUGUST",
+    "title": "Good Boys",
+    "studio": "Universal Pictures / Good Universe / Point Grey Pictures"
+  },
+  {
+    "date": 16,
+    "month": "AUGUST",
+    "title": "Playmobil: The Movie",
+    "studio": "Lionsgate / STX Entertainment"
+  },
+  {
+    "date": 16,
+    "month": "AUGUST",
+    "title": "The Informer",
+    "studio": "Aviron Pictures / Thunder Road Pictures"
+  },
+  {
+    "date": 23,
+    "month": "AUGUST",
+    "title": "Angel Has Fallen",
+    "studio": "Lionsgate"
+  },
+  {
+    "date": 23,
+    "month": "AUGUST",
+    "title": "Official Secrets",
+    "studio": "IFC Films"
+  },
+  {
+    "date": 23,
+    "month": "AUGUST",
+    "title": "Overcomer",
+    "studio": "TriStar Pictures / Sony Affirm"
+  },
+  {
+    "date": 6,
+    "month": "SEPTEMBER",
+    "title": "It: Chapter Two",
+    "studio": "Warner Bros. / New Line Cinema"
+  },
+  {
+    "date": 13,
+    "month": "SEPTEMBER",
+    "title": "Spies in Disguise",
+    "studio": "20th Century Fox / Blue Sky Studios"
+  },
+  {
+    "date": 13,
+    "month": "SEPTEMBER",
+    "title": "The Goldfinch",
+    "studio": "Warner Bros. / Amazon Studios"
+  },
+  {
+    "date": 13,
+    "month": "SEPTEMBER",
+    "title": "Downton Abbey",
+    "studio": "Universal Pictures / Focus Features / Carnival Films"
+  },
+  {
+    "date": 13,
+    "month": "SEPTEMBER",
+    "title": "Hustlers",
+    "studio": "STX Entertainment / Gloria Sanchez Productions"
+  },
+  {
+    "date": 20,
+    "month": "SEPTEMBER",
+    "title": "Rambo V: Last Blood",
+    "studio": "Lionsgate Films / Millennium Films"
+  },
+  {
+    "date": 20,
+    "month": "SEPTEMBER",
+    "title": "Black and Blue",
+    "studio": "Screen Gems"
+  },
+  {
+    "date": 27,
+    "month": "SEPTEMBER",
+    "title": "Abominable",
+    "studio": "Universal Pictures / DreamWorks Animation / Pearl Studio"
+  },
+  {
+    "date": 27,
+    "month": "SEPTEMBER",
+    "title": "The Art of Racing in the Rain",
+    "studio": "20th Century Fox"
+  },
+  {
+    "date": 4,
+    "month": "OCTOBER",
+    "title": "Joker",
+    "studio": "Warner Bros. / Village Roadshow Pictures / DC Comics / Green Hat Films"
+  },
+  {
+    "date": 4,
+    "month": "OCTOBER",
+    "title": "The Woman in the Window",
+    "studio": "20th Century Fox"
+  },
+  {
+    "date": 11,
+    "month": "OCTOBER",
+    "title": "Gemini Man",
+    "studio": "Paramount Pictures / Skydance Media / Jerry Bruckheimer Films"
+  },
+  {
+    "date": 11,
+    "month": "OCTOBER",
+    "title": "The Addams Family",
+    "studio": "Metro-Goldwyn-Mayer / The Jackal Group / Cinesite Studios"
+  },
+  {
+    "date": 11,
+    "month": "OCTOBER",
+    "title": "Zombieland: Double Tap",
+    "studio": "Columbia Pictures"
+  },
+  {
+    "date": 18,
+    "month": "OCTOBER",
+    "title": "Maleficent: Mistress of Evil",
+    "studio": "Walt Disney Studios Motion Pictures"
+  },
+  {
+    "date": 18,
+    "month": "OCTOBER",
+    "title": "Torrance",
+    "studio": "Warner Bros. / Bron Studios / Pearl Street Films"
+  },
+  {
+    "date": 18,
+    "month": "OCTOBER",
+    "title": "A Shaun the Sheep Movie: Farmageddon",
+    "studio": "Lionsgate Films / StudioCanal / Aardman Animations"
+  },
+  {
+    "date": 18,
+    "month": "OCTOBER",
+    "title": "The Hunt",
+    "studio": "Universal Pictures / Blumhouse Productions"
+  },
+  {
+    "date": 25,
+    "month": "OCTOBER",
+    "title": "Bad Trip",
+    "studio": "Orion Pictures"
+  },
+  {
+    "date": 25,
+    "month": "OCTOBER",
+    "title": "Untitled Aviron Pictures film",
+    "studio": "Aviron Pictures"
+  },
+  {
+    "date": 1,
+    "month": "NOVEMBER",
+    "title": "Terminator: Dark Fate",
+    "studio": "Paramount Pictures / Skydance Media / Lightstorm Entertainment / Tencent Pictures"
+  },
+  {
+    "date": 1,
+    "month": "NOVEMBER",
+    "title": "Motherless Brooklyn",
+    "studio": "Warner Bros."
+  },
+  {
+    "date": 8,
+    "month": "NOVEMBER",
+    "title": "Doctor Sleep",
+    "studio": "Warner Bros."
+  },
+  {
+    "date": 8,
+    "month": "NOVEMBER",
+    "title": "Sonic the Hedgehog",
+    "studio": "Paramount Pictures / Original Film / Paramount Animation / Sega"
+  },
+  {
+    "date": 8,
+    "month": "NOVEMBER",
+    "title": "Midway",
+    "studio": "Lionsgate"
+  },
+  {
+    "date": 15,
+    "month": "NOVEMBER",
+    "title": "Charlie's Angels",
+    "studio": "Columbia Pictures"
+  },
+  {
+    "date": 15,
+    "month": "NOVEMBER",
+    "title": "Ford v. Ferrari",
+    "studio": "20th Century Fox / Chernin Entertainment"
+  },
+  {
+    "date": 15,
+    "month": "NOVEMBER",
+    "title": "Last Christmas",
+    "studio": "Universal Pictures"
+  },
+  {
+    "date": 15,
+    "month": "NOVEMBER",
+    "title": "The Good Liar",
+    "studio": "Warner Bros. / New Line Cinema"
+  },
+  {
+    "date": 22,
+    "month": "NOVEMBER",
+    "title": "Frozen 2",
+    "studio": "Walt Disney Studios Motion Pictures / Walt Disney Animation Studios"
+  },
+  {
+    "date": 22,
+    "month": "NOVEMBER",
+    "title": "A Beautiful Day in the Neighborhood",
+    "studio": "TriStar Pictures"
+  },
+  {
+    "date": 22,
+    "month": "NOVEMBER",
+    "title": "The Rhythm Section",
+    "studio": "Paramount Pictures / Eon Productions / IM Global"
+  },
+  {
+    "date": 27,
+    "month": "NOVEMBER",
+    "title": "Knives Out",
+    "studio": "Lionsgate"
+  },
+  {
+    "date": 27,
+    "month": "NOVEMBER",
+    "title": "Queen & Slim",
+    "studio": "Universal Pictures"
+  },
+  {
+    "date": 13,
+    "month": "DECEMBER",
+    "title": "Untitled third Jumanji film",
+    "studio": "Columbia Pictures"
+  },
+  {
+    "date": 20,
+    "month": "DECEMBER",
+    "title": "Star Wars: The Rise of Skywalker",
+    "studio": "Lucasfilm / Bad Robot"
+  },
+  {
+    "date": 20,
+    "month": "DECEMBER",
+    "title": "Cats",
+    "studio": "Universal Pictures / Amblin Entertainment / Working Title Films"
+  },
+  {
+    "date": 20,
+    "month": "DECEMBER",
+    "title": "Fair and Balanced",
+    "studio": "Lionsgate"
+  },
+  {
+    "date": 20,
+    "month": "DECEMBER",
+    "title": "Super Intelligence",
+    "studio": "Warner Bros. / New Line Cinema"
+  },
+  {
+    "date": 25,
+    "month": "DECEMBER",
+    "title": "Little Women",
+    "studio": "Columbia Pictures / New Regency Pictures"
+  },
+  {
+    "date": 25,
+    "month": "DECEMBER",
+    "title": "Call of the Wild",
+    "studio": "20th Century Fox"
+  },
+  {
+    "date": 25,
+    "month": "DECEMBER",
+    "title": 1917,
+    "studio": "Universal Pictures / DreamWorks Pictures"
+  }
+]

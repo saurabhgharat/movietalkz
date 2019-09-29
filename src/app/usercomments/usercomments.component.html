@@ -1,0 +1,22 @@
+<h1><strong>Comments posted</strong></h1>
+<br>
+<br>
+
+<div *ngFor="let comment of comments">
+  <div class="card text-center">
+    <div class="card-header">
+      <strong>{{comment.moviename}}</strong>
+    </div>
+    <div class="card-body">
+
+      <p class="card-text"> {{comment.comment}}.</p>
+
+    </div>
+    <div class="card-footer text-muted">
+      {{comment.posted_at|date:'dd LLL yyyy , hh:mm aaaa' }}
+    </div>
+  </div>
+  <br>
+  <br>
+
+</div>

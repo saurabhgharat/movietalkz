@@ -1,0 +1,299 @@
+<div class="row h-100">
+  <div class="col-md-6 col-sm-12 releaseschedule  my-auto">
+    <br>
+    <h1>2019</h1>
+    <h1>Release</h1>
+    <h1>Schedule</h1>
+  </div>
+  <br>
+  <br>
+  <div class="table-responsive-sm col-md-6 col-sm-12">
+    <br>
+    <table class="table table-sm  table-bordered">
+      <thead>
+        <tr>
+          <th>Date
+          </th>
+          <th>Month
+          </th>
+          <th>Movie
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>4</td>
+          <td>OCTOBER</td>
+          <td>Joker</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>OCTOBER</td>
+          <td>The Woman in the Window</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>OCTOBER</td>
+          <td>Gemini Man</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>OCTOBER</td>
+          <td>The Addams Family</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>OCTOBER/td>
+          <td>Zombieland: Double Tap</td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>OCTOBER</td>
+          <td>Maleficent: Mistress of Evil</td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>OCTOBER</td>
+          <td>Torrance</td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>OCTOBER</td>
+          <td>A Shaun the Sheep Movie: Farmageddon</td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>OCTOBER</td>
+          <td>The Hunt</td>
+        </tr>
+        <tr>
+          <td>25</td>
+          <td>OCTOBER</td>
+          <td>Bad Trip</td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <a class="links" routerLink="/schedule">view full schedule</a>
+    <br>
+    <br>
+  </div>
+</div>
+<br>
+<br>
+<div class="row h-100">
+  <div class="col-md-6 col-sm-12 topheadline  my-auto ">
+    <br>
+    <h1>Top</h1>
+    <h1>Headlines</h1>
+  </div>
+  <br>
+  <br>
+  <div class="col-md-6 col-sm-12">
+    <br>
+    <div class="card-grid">
+      <div *ngFor="let article of articles|slice:0:4">
+
+        <div class="list">
+          <strong><a href="{{article.url}}" class="url">{{article.title}}</a></strong>
+          <br>
+          <br>
+          <br>
+          <p>{{article.content | truncate: 175}}</p>
+          <br>
+
+          <small><strong>{{article.publishedAt|date}}</strong></small>
+
+        </div>
+
+        <br>
+      </div>
+    </div>
+    <a class="links" routerLink="/news">view more news</a>
+    <br>
+    <br>
+  </div>
+</div>
+<br>
+<br>
+<div class="row h-100">
+  <br>
+  <div class="col-md-6 col-sm-12 latestnews  my-auto">
+    <br>
+    <h1>Latest</h1>
+    <h1>News</h1>
+  </div>
+  <div class="col-md-6 col-sm-12">
+    <br>
+    <div class="card-grid">
+      <div *ngFor="let article of latestarticles|slice:0:4">
+
+        <div class="list">
+
+          <strong><a href="{{article.url}}" class="url">{{article.title}}</a></strong>
+          <br>
+          <br>
+          <br>
+          <p>{{article.content | truncate: 175}}</p>
+          <br>
+
+          <small><strong>{{article.publishedAt|date}}</strong></small>
+
+        </div>
+
+        <br>
+      </div>
+    </div>
+    <a class="links" routerLink="/latestnews">view more latest news</a>
+    <br>
+    <br>
+  </div>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+<div class="row h-100">
+  <div class="col-md-6 col-sm-12 records my-auto">
+    <br>
+    <h1 class="record">All Time </h1>
+    <h1>Box Office</h1>
+    <br>
+  </div>
+  <div class="col-md-6 col-sm-12">
+    <div class="table-responsive-sm">
+      <br>
+      <table class="table table-sm thead-dark table-bordered">
+        <thead>
+          <tr>
+            <th>Chart
+            </th>
+            <th>Record Holder
+            </th>
+            <th>Record
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>DOMESTIC</td>
+            <td>Star Wars: The Force Awakens</td>
+            <td>$936,662,225</td>
+          </tr>
+          <tr>
+            <td>ADJUSTED FOR INFLATION</td>
+            <td>Gone with the Wind</td>
+            <td>$1,826,639,94</td>
+          </tr>
+          <tr>
+            <td>WORLDWIDE</td>
+            <td>Avengers: Endgame</td>
+            <td>$2,796,274,401</td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <a class="links" routerLink="/records">View full all time box office</a>
+      <br>
+      <br>
+    </div>
+  </div>
+
+  <br>
+  <br>
+</div>
+<br>
+<br>
+<div class="row h-100">
+  <div class="col-md-6 col-sm-12 highestgrossing my-auto">
+    <h1>Highest grossing </h1>
+    <h1>films</h1>
+    <br>
+  </div>
+  <div class="col-md-6 col-sm-12 table-responsive-sm">
+    <br>
+    <table class="table table-bordered table-hover">
+      <thead>
+        <th>Year</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2019/captain-marvel/5cbcc6edc532793e6e415bf0">2019</a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2018/avengers-infinity-war/5ca48e169433a33dd61f2d20">2018</a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2017/star-wars-the-last-jedi/5caa0c0f63a78510827bc6f3">2017</a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2016/captain-america-civil-war/5caa0fff3a80c8154aab66f1">2016</a></td>
+        </tr>
+        <tr>
+          <td> <a class="links" routerLink="/movieyear/2015/star-wars-the-force-awakens/5caa0fff3a80c8154aab66fb">2015</a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2014/transformers-age-of-extinction/5caa0fff3a80c8154aab6705">2014</a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2013/frozen/5caa0fff3a80c8154aab670f">2013 </a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2012/the-avengers/5caa0fff3a80c8154aab6719">2012 </a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2011/harry-potter-and-the-deathly-hallows-part-2/5caa0fff3a80c8154aab6723">2011</a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2010/toy-story-3/5caa0fff3a80c8154aab672d">2010 </a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2009/avatar/5caa0fff3a80c8154aab6737">2009 </a></td>
+        </tr>
+        <tr>
+          <td><a class="links" routerLink="/movieyear/2008/the-dark-knight/5caa0fff3a80c8154aab6741">2008 </a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<br>
+<br>
+
+<div class="row h-100">
+  <div class="col-md-6 col-sm-12 topheadline  my-auto ">
+    <br>
+    <h1>Latest</h1>
+    <h1>Trailers</h1>
+  </div>
+  <br>
+  <br>
+  <div class="col-md-6 col-sm-12">
+    <br>
+    <div class="card-grid">
+      <div *ngFor="let video of videos|slice:0:5">
+
+        <div class="list">
+          <strong class="url">{{video.snippet.title|ampersand}}</strong>
+          <br>
+          <br>
+          <br>
+         
+          <iframe width="200px" height="200px" [src]="('https://www.youtube.com/embed/' + video.id.videoId) | safe"></iframe>
+          <br>
+
+          <small><strong class="text-muted">{{video.snippet.publishedAt|date}}</strong></small>
+
+        </div>
+
+        <br>
+      </div>
+    </div>
+    <a class="links" routerLink="/latesttrailers">view more trailers</a>
+    <br>
+    <br>
+  </div>
+</div>
+<br>
+<br>

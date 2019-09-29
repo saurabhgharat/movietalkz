@@ -1,0 +1,65 @@
+<h1>Sign Up</h1>
+<br>
+<br>
+
+<div class="row h-100">
+  <div class="col-sm-12">
+    <form [formGroup]="registerform" (ngSubmit)="onSubmit(registerform.value)">
+      <div class="form-group">
+        <br>
+
+        <label for="FirstName">First Name</label>
+        <input formControlName="firstname" type="text" class="form-control" id="FirstName" placeholder="Enter first name">
+        <div *ngIf="firstname.invalid && ( firstname.touched || firstname.dirty)" class="alert alert-danger">
+          <div class="firstname.errors.required">
+            First Name is required
+          </div>
+
+
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="LastName">Last name</label>
+        <input formControlName="lastname" type="text" class="form-control" id="LastName" placeholder="Enter last  name">
+        <div *ngIf="lastname.invalid && ( lastname.touched || lastname.dirty)" class="alert alert-danger">
+          <div class="lastname.errors.required">
+            Last name is required
+          </div>
+
+
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="Inputemail1">Email address</label>
+        <input formControlName="email" type="email" class="form-control" id="Inputemail1" placeholder="Enter email">
+        <div *ngIf="errormessage" class="alert alert-danger">{{errormessage.error.message}}</div>
+
+      </div>
+
+      <div class="form-group">
+        <label for="passwordInput">Password</label>
+        <input formControlName="password" type="password" class="form-control" id="passwordInput" placeholder="password">
+        <div *ngIf="password.invalid && ( password.touched || password.dirty)" class="alert alert-danger">
+          <div class="password.errors.minLength">
+            Passwords must contain at least eight characters
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="CpasswordInput">Confirm Password</label>
+        <input formControlName="cpassword" type="password" class="form-control" id="CpasswordInput" placeholder="password">
+        <div *ngIf="cpassword.invalid && ( cpassword.touched || cpassword.dirty)" class="alert alert-danger">
+          <div class="cpassword.errors.isError">
+            Password do not match
+          </div>
+        </div>
+      </div>
+      <div class="form-group" style="text-align:center;">
+        <button [disabled]="!registerform.valid" type="submit" class="btn btn-dark">Sign Up</button>
+
+      </div>
+    </form>
+  </div>
+</div>
+<br>
+<br>

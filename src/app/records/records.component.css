@@ -1,0 +1,9 @@
+h1{font-size:3rem;color:#ff5100;font-weight:700;text-align:center}
+thead{
+background: #ff0404;
+background: linear-gradient(0deg,rgba(255,4,4,1) 0,rgba(255,126,4,1) 85%);
+}
+tbody{
+    background: white;
+}
+td{padding:.25em}tr{border:1px solid #dee2e6;}

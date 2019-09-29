@@ -1,0 +1,124 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+  crossorigin="anonymous">
+
+<div *ngIf="postcomment==false" class="postblock">
+  <button class="btn btn-primary " (click)="postblock()">
+    Post comment
+  </button>
+</div>
+<br>
+<form [formGroup]="commentform" (ngSubmit)="onSubmit(commentform.value)">
+  <div class="form-group">
+    <label for="comment"><strong>Comment:</strong></label>
+    <br />
+    <textarea formControlName="comment" class="form-control" id="comment" placeholder="Enter comment"></textarea>
+  </div>
+
+  <div *ngIf="postcomment==false && editable==true && showsubmitbutton==false">
+    <button type="button" data-toggle="modal" data-target="#commentupdated" class="btn btn-primary" (click)="updateValue(commentform.value)">
+      Update
+    </button>
+  </div>
+  <div *ngIf="showsubmitbutton==true ">
+    <div *ngIf="userService.loggedIn()">
+      <button data-toggle="modal" data-target="#commentposted" [disabled]="commentform.invalid" type="submit" class="btn btn-primary"
+        id="submitbutton">
+        Submit
+      </button>
+    </div>
+    <div *ngIf="!userService.loggedIn()">
+      <button type="submit" class="btn btn-primary" id="submitbutton" disabled>
+        Submit
+      </button>
+      <br>
+      <br>
+      <p class="alert alert-danger">Please login to post comment</p>
+    </div>
+  </div>
+</form>
+
+<br />
+<div class="showbutton">
+  <button id="showbutton" class="btn btn-primary" (click)="getComments()">
+    Refresh comments
+  </button>
+</div>
+<br />
+
+
+<div class="modal fade" id="commentposted" tabindex="-1" role="dialog" aria-labelledby="commentposted" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Comment posted...</h4>
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="commentupdated" tabindex="-1" role="dialog" aria-labelledby="commentupdated" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Comment updated...</h4>
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="comment" id="comment" *ngFor="let comment of comments">
+
+  <div *ngIf="comment.movie == movieid">
+    <div class="card ">
+      <div class="card-header">
+        <strong>Posted by : {{ comment.firstname }} {{ comment.lastname }}</strong>
+
+      </div>
+      <div class="card-body">{{ comment.comment }}</div>
+
+      <div class="card-footer text-muted">
+        {{ comment.posted_at | date: "dd LLL yyyy , hh:mm a" }}
+        <div class="action">
+          <div class="modal fade" id="confirmdelete" tabindex="-1" role="dialog" aria-labelledby="confirmdelete"
+            aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h4 class="modal-title">Delete comment</h4>
+                </div>
+                <div class="modal-body">
+                  <p>Are you sure you want to delete this comment?</p>
+                  <div class="deleteconfirm">
+                    <button class="  btn-sm updatebutton" style="margin-right: 16px" (click)="deleteComment(comment)"
+                      data-dismiss="modal">Yes</button>
+
+                    <button class="  btn-sm deletebutton" style="margin-right: 16px" data-dismiss="modal" aria-label="Close">
+                      No</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div *ngIf="comment.user==id" class="update">
+            <button type="button" class="btn-sm" style="margin-right: 16px" (click)="updateComment(comment,comment._id)"><i
+                class="fas fa-edit" aria-hidden="true"></i>Edit</button>
+
+            <button data-toggle="modal" data-target="#confirmdelete" class="btn-sm" style="margin-right: 16px"><i class="fas fa-trash-alt"
+                aria-hidden="true"></i>Delete</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <br />
+  </div>
+</div>

@@ -1,0 +1,41 @@
+/* You can add global styles to this file, and also import other style files */
+.container{
+    margin-top: 100px;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+.btn{
+    border-radius: 1em !important;
+    background: rgb(255,4,4) !important;
+    background: linear-gradient(0deg, rgba(255,4,4,1) 0%, rgba(255,126,4,1) 85%) !important;
+    border-color: #ff3d04 !important; 
+}
+.btn-primary,.card{border-radius:1em!important;
+    -moz-box-shadow:0 0 16px grey;
+    -webkit-box-shadow:0 0 16px grey;
+    box-shadow:0 0 16px grey;
+    color: black;
+}
+a{
+    color:black !important;
+}
+a:hover{
+    color: #ff5100 !important;
+}
+.row{
+    border-radius: 1em !important;
+    -moz-box-shadow: 0 0 16px grey;
+    -webkit-box-shadow: 0 0 16px grey;
+    box-shadow: 0 0 16px grey;
+    background-color: white;
+    color: black;
+}
+.card{
+    border-radius: 1em !important;
+    -moz-box-shadow: 0 0 16px grey;
+    -webkit-box-shadow: 0 0 16px grey;
+    box-shadow: 0 0 16px grey;
+}

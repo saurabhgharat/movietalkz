@@ -1,0 +1,787 @@
+[
+  {
+    "chart": "RATED NC-17",
+    "recordholder": "Showgirls",
+    "record": "$20,350,754"
+  },
+  {
+    "chart": "MOVIES THAT NEVER HIT #1",
+    "recordholder": "Sing",
+    "record": "$270,395,425"
+  },
+  {
+    "chart": "IMAX",
+    "recordholder": "Space Station 3-D (IMAX)",
+    "record": "$93,370,154.00"
+  },
+  {
+    "chart": "OPENING WEEKENDS",
+    "recordholder": "Avengers: Endgame",
+    "record": "$357,115,007"
+  },
+  {
+    "chart": "OPENING WEEKENDS - WORLDWIDE",
+    "recordholder": "Avengers: Endgame",
+    "record": "$1,223,641,414"
+  },
+  {
+    "chart": "OPENING WEEKENDS - FOREIGN",
+    "recordholder": "Avengers: Endgame",
+    "record": "$866,526,407"
+  },
+  {
+    "chart": "WINTER",
+    "recordholder": "Black Panther",
+    "record": "$202003951"
+  },
+  {
+    "chart": "SPRING",
+    "recordholder": "Avengers: Endgame",
+    "record": "$357,115,007"
+  },
+  {
+    "chart": "SUMMER",
+    "recordholder": "Jurassic World",
+    "record": "$208806270"
+  },
+  {
+    "chart": "FALL",
+    "recordholder": "It",
+    "record": "$123403419"
+  },
+  {
+    "chart": "HOLIDAY",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$247966675"
+  },
+  {
+    "chart": "JANUARY",
+    "recordholder": "American Sniper",
+    "record": "$89269066"
+  },
+  {
+    "chart": "FEBRUARY",
+    "recordholder": "Black Panther",
+    "record": "$202003951"
+  },
+  {
+    "chart": "MARCH",
+    "recordholder": "Beauty and the Beast",
+    "record": "$174750616"
+  },
+  {
+    "chart": "APRIL",
+    "recordholder": "Avengers: Endgame",
+    "record": "$357,115,007"
+  },
+  {
+    "chart": "MAY",
+    "recordholder": "The Avengers",
+    "record": "$207438708"
+  },
+  {
+    "chart": "JUNE",
+    "recordholder": "Jurassic World",
+    "record": "$208806270"
+  },
+  {
+    "chart": "JULY",
+    "recordholder": "Harry Potter / Deathly HalowsP2",
+    "record": "$169189427"
+  },
+  {
+    "chart": "AUGUST",
+    "recordholder": "Suicide Squad",
+    "record": "$133682248"
+  },
+  {
+    "chart": "SEPTEMBER",
+    "recordholder": "It",
+    "record": "$123403419"
+  },
+  {
+    "chart": "OCTOBER",
+    "recordholder": "Venom",
+    "record": "$80255756"
+  },
+  {
+    "chart": "NOVEMBER",
+    "recordholder": "Catching Fire",
+    "record": "$158074286"
+  },
+  {
+    "chart": "DECEMBER",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$247966675"
+  },
+  {
+    "chart": "MARTIN LUTHER KING",
+    "recordholder": "American Sniper",
+    "record": "$107211457"
+  },
+  {
+    "chart": "SUPER BOWL",
+    "recordholder": "Hannah Montana",
+    "record": "$31117834"
+  },
+  {
+    "chart": "PRESIDENT'S DAY",
+    "recordholder": "Black Panther",
+    "record": "$242155680"
+  },
+  {
+    "chart": "EASTER",
+    "recordholder": "Batman v Superman",
+    "record": "$166007347"
+  },
+  {
+    "chart": "MEMORIAL DAY",
+    "recordholder": "Pirates of the Caribbean 3",
+    "record": "$139802190"
+  },
+  {
+    "chart": "INDEPENDENCE DAY",
+    "recordholder": "Transformers 3",
+    "record": "$97852865"
+  },
+  {
+    "chart": "LABOR DAY",
+    "recordholder": "Hallowen 007",
+    "record": "$30591759"
+  },
+  {
+    "chart": "HALLOWEEN",
+    "recordholder": "Saw III",
+    "record": "$33610391"
+  },
+  {
+    "chart": "THANKSGIVING 3-DAY OPENINGS",
+    "recordholder": "Frozen",
+    "record": "$67391326"
+  },
+  {
+    "chart": "THANKSGIVING 3-DAY - ALL MOVIES",
+    "recordholder": "Catching Fire",
+    "record": "$74179601"
+  },
+  {
+    "chart": "THANKSGIVING 5-DAY OPENINGS",
+    "recordholder": "Frozen",
+    "record": "$93,590,387.00"
+  },
+  {
+    "chart": "THANKSGIVING 5-DAY - ALL MOVIES",
+    "recordholder": "Catching Fire",
+    "record": "$109939340"
+  },
+  {
+    "chart": "POST-THANKSGIVING WEEKEND DROPS",
+    "recordholder": "Free Birds",
+    "record": "-81.3%"
+  },
+  {
+    "chart": "POST-THANKSGIVING WEEKEND HOLDS",
+    "recordholder": "Pokemon the Movie: The Power of Us",
+    "record": "+7.0%"
+  },
+  {
+    "chart": "NON-FRIDAY OPENING WEEKENDS",
+    "recordholder": "Transformers 2",
+    "record": "$108966307"
+  },
+  {
+    "chart": "RATED G",
+    "recordholder": "Toy Story 3",
+    "record": "$110307189"
+  },
+  {
+    "chart": "RATED PG",
+    "recordholder": "Incredibles 2",
+    "record": "$182687905"
+  },
+  {
+    "chart": "RATED PG-13",
+    "recordholder": "Avengers: Endgame",
+    "record": "$357,115,007"
+  },
+  {
+    "chart": "RATED R",
+    "recordholder": "Deadpool",
+    "record": "$132434639"
+  },
+  {
+    "chart": "NON-#1 DEBUTS",
+    "recordholder": "Inside Out",
+    "record": "$90440272"
+  },
+  {
+    "chart": "SUMMER STARTS",
+    "recordholder": "The Avengers",
+    "record": "$207438708"
+  },
+  {
+    "chart": "SECOND WEEKENDS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$149202860"
+  },
+  {
+    "chart": "THIRD WEEKENDS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$90241673"
+  },
+  {
+    "chart": "FOURTH WEEKENDS",
+    "recordholder": "Avatar",
+    "record": "$50306217"
+  },
+  {
+    "chart": "FIFTH WEEKENDS",
+    "recordholder": "Avatar",
+    "record": "$42785612"
+  },
+  {
+    "chart": "SIXTH WEEKENDS",
+    "recordholder": "Avatar",
+    "record": "$3494481"
+  },
+  {
+    "chart": "SEVENTH WEEKENDS",
+    "recordholder": "Avatar",
+    "record": "$31280029"
+  },
+  {
+    "chart": "EIGHTH WEEKENDS",
+    "recordholder": "Titanic",
+    "record": "$23027838"
+  },
+  {
+    "chart": "NINTH WEEKENDS",
+    "recordholder": "Titanic",
+    "record": "$28167947"
+  },
+  {
+    "chart": "TENTH WEEKENDS",
+    "recordholder": "Titanic",
+    "record": "$21036343"
+  },
+  {
+    "chart": "ELEVENTH WEEKENDS",
+    "recordholder": "Titanic",
+    "record": "$19633056"
+  },
+  {
+    "chart": "TWELFTH WEEKENDS",
+    "recordholder": "Titanic",
+    "record": "$17605849"
+  },
+  {
+    "chart": "BIGGEST DROPS",
+    "recordholder": "Collide -88.5%",
+    "record": ""
+  },
+  {
+    "chart": "SMALLEST DROPS - WIDE",
+    "recordholder": "Rumor Has It",
+    "record": "+239.5%"
+  },
+  {
+    "chart": "SMALLEST DROPS - VERY WIDE",
+    "recordholder": "Rumor Has It",
+    "record": "+239.5%"
+  },
+  {
+    "chart": "SMALLEST DROPS - SATURATED",
+    "recordholder": "Rumor Has It",
+    "record": "+239.5%"
+  },
+  {
+    "chart": "SMALLEST DROPS - SUPER SATURATED",
+    "recordholder": "The Greatest Showman",
+    "record": "+76.3%"
+  },
+  {
+    "chart": "TOP OPENING THEATER AVERAGES",
+    "recordholder": "Lion King",
+    "record": "$793377"
+  },
+  {
+    "chart": "TOP OPENING THEATER AVERAGES - WIDE RELEASE",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$59982"
+  },
+  {
+    "chart": "TOP THEATER AVERAGES",
+    "recordholder": "Lion King",
+    "record": "$793377"
+  },
+  {
+    "chart": "TOP THEATER AVERAGES - WIDE RELEASE",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$59982"
+  },
+  {
+    "chart": "WORST OPENING THEATER AVERAGES",
+    "recordholder": "Proud America",
+    "record": 128
+  },
+  {
+    "chart": "MOST WEEKENDS AT #1",
+    "recordholder": "E.T.",
+    "record": "16 weeks"
+  },
+  {
+    "chart": "MOST WEEKENDS AT #1 - CONSECUTIVE",
+    "recordholder": "Titanic",
+    "record": "15 weeks"
+  },
+  {
+    "chart": "MOST WEEKENDS IN THE TOP 5",
+    "recordholder": "E.T.",
+    "record": "27 weeks"
+  },
+  {
+    "chart": "MOST WEEKENDS IN THE TOP 5 - CONSECUTIVE",
+    "recordholder": "E.T.",
+    "record": "27 weeks"
+  },
+  {
+    "chart": "MOST WEEKENDS IN THE TOP 10",
+    "recordholder": "E.T.",
+    "record": "44 weeks"
+  },
+  {
+    "chart": "MOST WEEKENDS IN THE TOP 10 - CONSECUTIVE",
+    "recordholder": "E.T.",
+    "record": "35 weeks"
+  },
+  {
+    "chart": "LONGEST TIME TO #1",
+    "recordholder": "A Fish Called Wanda",
+    "record": "10 weeks"
+  },
+  {
+    "chart": "#1 MOVIE WEEKEND MARKET SHARE",
+    "recordholder": "Avengers: Age of Ultron",
+    "record": "84.5%"
+  },
+  {
+    "chart": "LOWEST GROSSING #1 MOVIES",
+    "recordholder": "Jerry Maguire",
+    "record": "$5518727"
+  },
+  {
+    "chart": "WORST OPENINGS - WIDE",
+    "recordholder": "Rudy 25th Annverary",
+    "record": "$85349"
+  },
+  {
+    "chart": "WORST OPENINGS - VERY WIDE",
+    "recordholder": "Oogieloves In The BIG Balloon Adventure",
+    "record": "$443,901.00"
+  },
+  {
+    "chart": "WORST OPENINGS - SATURATED",
+    "recordholder": "Friend Request",
+    "record": "$2002863"
+  },
+  {
+    "chart": "WORST OPENINGS - SUPER SATURATED",
+    "recordholder": "Hoot",
+    "record": "$3368197"
+  },
+  {
+    "chart": "MOST NEW WIDE RELEASES",
+    "recordholder": "Dec. 21–23 2018",
+    "record": "8 movies"
+  },
+  {
+    "chart": "BIGGEST WEEKENDS OVERALL",
+    "recordholder": "Dec. 18–20 2015",
+    "record": "$305556314"
+  },
+  {
+    "chart": "OPENING WEEKEND PHOTO FINISHES",
+    "recordholder": "Mar. 12–14 1993",
+    "record": "$5966  between 1st and 2nd place"
+  },
+  {
+    "chart": "WEEKEND PHOTO FINISHES",
+    "recordholder": "Mar. 12–14 1993",
+    "record": "$5966 between 1st and 2nd place"
+  },
+  {
+    "chart": "OPENING WEEKEND BIGGEST GAPS",
+    "recordholder": "Dec. 18-20 2015",
+    "record": "$233679516  between 1st and 2nd place"
+  },
+  {
+    "chart": "WEEKEND BIGGEST GAPS",
+    "recordholder": "Apr. 27-29 2018",
+    "record": "$246693206  between 1st and 2nd place"
+  },
+  {
+    "chart": "SINGLE DAYS",
+    "recordholder": "Avengers: Endgame",
+    "record": "$157,461,641"
+  },
+  {
+    "chart": "OPENING DAYS",
+    "recordholder": "Avengers: Endgame",
+    "record": "$157,461,641"
+  },
+  {
+    "chart": "OPENING TUESDAYS",
+    "recordholder": "The Amazing Spider-Man",
+    "record": "$35016884"
+  },
+  {
+    "chart": "OPENING WEDNESDAYS",
+    "recordholder": "The Twilight Saga: Eclipse",
+    "record": "$68533840"
+  },
+  {
+    "chart": "OPENING THURSDAYS",
+    "recordholder": "Revenge of the Sith",
+    "record": "$50013859"
+  },
+  {
+    "chart": "CHRISTMAS - OPENING DAYS",
+    "recordholder": "Sherlock Holmes",
+    "record": "$24608941"
+  },
+  {
+    "chart": "CHRISTMAS DAYS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$49325663"
+  },
+  {
+    "chart": "NEW YEAR'S DAYS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$34394152"
+  },
+  {
+    "chart": "FRIDAYS",
+    "recordholder": "Avengers: Endgame",
+    "record": "$157,461,641"
+  },
+  {
+    "chart": "SATURDAYS",
+    "recordholder": "Avengers: Endgame",
+    "record": "$109,264,122"
+  },
+  {
+    "chart": "SUNDAYS",
+    "recordholder": "Avengers: Endgame",
+    "record": "$90,389,244"
+  },
+  {
+    "chart": "MONDAYS",
+    "recordholder": "Black Panther",
+    "record": "$40151729"
+  },
+  {
+    "chart": "TUESDAYS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$37361729"
+  },
+  {
+    "chart": "WEDNESDAYS",
+    "recordholder": "The Twilight Saga: Eclipse",
+    "record": "$68533840"
+  },
+  {
+    "chart": "THURSDAYS",
+    "recordholder": "Revenge of the Sith",
+    "record": "$50013859"
+  },
+  {
+    "chart": "NON-HOLIDAY MONDAYS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$40109742"
+  },
+  {
+    "chart": "NON-OPENING TUESDAYS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$37361729"
+  },
+  {
+    "chart": "NON-OPENING WEDNESDAYS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$38022183"
+  },
+  {
+    "chart": "NON-OPENING THURSDAYS",
+    "recordholder": "Transformers 2",
+    "record": "$29094472"
+  },
+  {
+    "chart": "NON-OPENING FRIDAYS",
+    "recordholder": "Star Wars: The Force Awakens",
+    "record": "$49325663"
+  },
+  {
+    "chart": "SATURDAY DROPS FOR OPENING WEEKENDS",
+    "recordholder": "The Ringer",
+    "record": "-72.3%"
+  },
+  {
+    "chart": "FRIDAY SHARE OF OPENING WEEKEND",
+    "recordholder": "Spirited Away Fathm Eent",
+    "record": "62.5%"
+  },
+  {
+    "chart": "SATURDAY SHARE OF OPENING WEEKEND",
+    "recordholder": "Patterns of Evidence: The Moses Controversy",
+    "record": "100.0%"
+  },
+  {
+    "chart": "SUNDAY SHARE OF OPENING WEEKEND",
+    "recordholder": "Rudy 25th Annverary",
+    "record": "100.0%"
+  },
+  {
+    "chart": "OPENING WEEKS",
+    "recordholder": "Avengers: Endgame",
+    "record": "$473,894,638"
+  },
+  {
+    "chart": "3-DAY GROSSES",
+    "recordholder": "Avengers: Endgame",
+    "record": "$357,115,007"
+  },
+  {
+    "chart": "4-DAY GROSSES",
+    "recordholder": "Avengers: Endgame",
+    "record": "$393,989,446"
+  },
+  {
+    "chart": "5-DAY GROSSES",
+    "recordholder": "Avengers: Endgame",
+    "record": "$427,099,795"
+  },
+  {
+    "chart": "6-DAY GROSSES",
+    "recordholder": "Avengers: Endgame",
+    "record": "$452,351,786"
+  },
+  {
+    "chart": "7-DAY GROSSES",
+    "recordholder": "Avengers: Endgame",
+    "record": "$473,894,638"
+  },
+  {
+    "chart": "8-DAY GROSSES",
+    "recordholder": "Avengers: Endgame",
+    "record": "$514,631,412"
+  },
+  {
+    "chart": "9-DAY GROSSES",
+    "recordholder": "Avengers: Endgame",
+    "record": "$576,158,461"
+  },
+  {
+    "chart": "10-DAY GROSSES",
+    "recordholder": "Avengers: Endgame",
+    "record": "$621,277,849"
+  },
+  {
+    "chart": "THEATER DROPS",
+    "recordholder": "The Darkest Minds",
+    "record": -2679
+  },
+  {
+    "chart": "WIDEST OPENINGS",
+    "recordholder": "Despicable Me 3",
+    "record": 4529
+  },
+  {
+    "chart": "WIDEST RELEASES",
+    "recordholder": "Despicable Me 3 4",
+    "record": 4535
+  },
+  {
+    "chart": "WIDEST INDEPENDENT OPENINGS",
+    "recordholder": "The Twilight Saga: Eclipse 4",
+    "record": 4468
+  },
+  {
+    "chart": "WIDEST INDEPENDENT RELEASES",
+    "recordholder": "The Twilight Saga: Eclipse 4",
+    "record": 4468
+  },
+  {
+    "chart": "WIDEST OPENINGS - G RATED",
+    "recordholder": "Cars 3 4",
+    "record": 4256
+  },
+  {
+    "chart": "WIDEST RELEASES - G RATED",
+    "recordholder": "Cars 3 4",
+    "record": 4256
+  },
+  {
+    "chart": "WIDEST OPENINGS - PG RATED",
+    "recordholder": "Despicable Me 3 4",
+    "record": 4529
+  },
+  {
+    "chart": "WIDEST RELEASES - PG RATED",
+    "recordholder": "Despicable Me 3 4",
+    "record": 4535
+  },
+  {
+    "chart": "WIDEST OPENINGS - PG-13 RATED",
+    "recordholder": "Jurassic World 2 4",
+    "record": 4475
+  },
+  {
+    "chart": "WIDEST RELEASES - PG-13 RATED",
+    "recordholder": "Jurassic World 2 4",
+    "record": 4485
+  },
+  {
+    "chart": "WIDEST OPENINGS - R RATED",
+    "recordholder": "Deadpool 2 4",
+    "record": 4349
+  },
+  {
+    "chart": "WIDEST RELEASES - R RATED",
+    "recordholder": "Deadpool 2 4",
+    "record": 4349
+  },
+  {
+    "chart": "WIDEST OPENINGS - NC-17 RATED",
+    "recordholder": "Showgirls 1",
+    "record": 1388
+  },
+  {
+    "chart": "WIDEST RELEASES - NC-17 RATED",
+    "recordholder": "Showgirls 1",
+    "record": 1388
+  },
+  {
+    "chart": "FASTEST TO $100M",
+    "recordholder": "Avengers: Endgame",
+    "record": "1 days"
+  },
+  {
+    "chart": "FASTEST TO $150M",
+    "recordholder": "Avengers: Endgame",
+    "record": "1 days"
+  },
+  {
+    "chart": "FASTEST TO $200M",
+    "recordholder": "Avengers: Endgame",
+    "record": "2 days"
+  },
+  {
+    "chart": "FASTEST TO $250M",
+    "recordholder": "Avengers: Endgame",
+    "record": "2 days"
+  },
+  {
+    "chart": "FASTEST TO $300M",
+    "recordholder": "Avengers: Endgame",
+    "record": "3 days"
+  },
+  {
+    "chart": "FASTEST TO $350M",
+    "recordholder": "Avengers: Endgame",
+    "record": "3 days"
+  },
+  {
+    "chart": "FASTEST TO $400M",
+    "recordholder": "Avengers: Endgame",
+    "record": "5 days"
+  },
+  {
+    "chart": "FASTEST TO $450M",
+    "recordholder": "Avengers: Endgame",
+    "record": "6 days"
+  },
+  {
+    "chart": "FASTEST TO $500M",
+    "recordholder": "Avengers: Endgame",
+    "record": "8 days"
+  },
+  {
+    "chart": "SLOWEST TO $100M",
+    "recordholder": "Unforgiven",
+    "record": "318 days"
+  },
+  {
+    "chart": "SLOWEST TO $200M",
+    "recordholder": "Back to the Future",
+    "record": "232 days"
+  },
+  {
+    "chart": "FASTEST STUDIOS TO $1 BILLION",
+    "recordholder": "Buena Vista",
+    "record": "117 days"
+  },
+  {
+    "chart": "ALL MONTHLY GROSSES",
+    "recordholder": "July 2011",
+    "record": "$1395076360"
+  },
+  {
+    "chart": "JANUARY GROSSES",
+    "recordholder": 2010,
+    "record": "$159508477"
+  },
+  {
+    "chart": "FEBRUARY GROSSES",
+    "recordholder": 2018,
+    "record": "$14123830"
+  },
+  {
+    "chart": "MARCH GROSSES",
+    "recordholder": 2017,
+    "record": "$1171917526"
+  },
+  {
+    "chart": "APRIL GROSSES",
+    "recordholder": 2018,
+    "record": "$126777837"
+  },
+  {
+    "chart": "MAY GROSSES",
+    "recordholder": 2013,
+    "record": "$1141842212"
+  },
+  {
+    "chart": "JUNE GROSSES",
+    "recordholder": 2018,
+    "record": "$1276259743"
+  },
+  {
+    "chart": "JULY GROSSES",
+    "recordholder": 2011,
+    "record": "$1395076360"
+  },
+  {
+    "chart": "AUGUST GROSSES",
+    "recordholder": 2016,
+    "record": "$119655676"
+  },
+  {
+    "chart": "SEPTEMBER GROSSES",
+    "recordholder": 2017,
+    "record": "$697590740"
+  },
+  {
+    "chart": "OCTOBER GROSSES",
+    "recordholder": 2018,
+    "record": "$833454168"
+  },
+  {
+    "chart": "NOVEMBER GROSSES",
+    "recordholder": 2012,
+    "record": "$190590045"
+  },
+  {
+    "chart": "DECEMBER GROSSES",
+    "recordholder": 2017,
+    "record": "$1323291715"
+  }
+]
